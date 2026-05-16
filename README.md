@@ -1,4 +1,4 @@
-# PROJETO-SNAKE-HUNGRY 1
+# PROJETO-SNAKE-HUNGRY 
 NOME: Rian de Sousa e Sousa; CURSO: Ciência da Computação, 1° Ciclo; RA: 72.126.036-2
 link do vídeo para youtube: https://youtu.be/i5Q4yCwUuQM
 
